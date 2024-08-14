@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b8OxtVnyayLUqhVh0N2hkA+Lsaa0oCBwi8WtXSC62bqPCucpGFaM/SZ9+emtPktngnPzHE5VmNSVGDMDlznvIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Semih\\OneDrive\\Masaüstü\\Eğitimler\\RedisTutorial\\RedisTutorial\\Distrubuted.Cache.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Semih\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\Semih\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\Semih\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
